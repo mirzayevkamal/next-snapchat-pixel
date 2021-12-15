@@ -1,7 +1,7 @@
 /**
  *  Next Snapchat Pixel Module
  *
- * @package react-next-pixel
+ * @package next-snapchat-pixel
  * @author Kamal Mirzayev <mirzayevkamal@gmail.com>
  *
 **/

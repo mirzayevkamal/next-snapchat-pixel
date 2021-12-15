@@ -1,0 +1,25 @@
+{
+  "name": "next-snapchat-pixel",
+  "version": "1.0.0",
+  "description": "A module for tracking Snapchat data for React/Next based applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirzayevkamal/next-snapchat-pixel.git"
+  },
+  "keywords": [
+    "react",
+    "snapchat",
+    "nextjs",
+    "pixel"
+  ],
+  "author": "Kamal Mirzayev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirzayevkamal/next-snapchat-pixel/issues"
+  },
+  "homepage": "https://github.com/mirzayevkamal/next-snapchat-pixel#readme"
+}
